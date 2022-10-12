@@ -1,4 +1,4 @@
-name: Issue Triage
+name: release-notifications-on-pullrequest
 description: A custom action to update Pull requests with comments referencing the specific release information. 
 author: Shankar Venkatachalam
 branding:
